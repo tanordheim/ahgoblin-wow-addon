@@ -1,0 +1,7 @@
+## Interface: 50001
+## Author: Trond Arve Nordheim
+## Version: 2.0
+## Title: AhGoblin
+## RequiredDeps: Auc-Advanced, TradeSkillMaster_Crafting, TradeSkillMaster_Auctioning, TradeSkillMaster_Mailing
+
+AhGoblin.xml

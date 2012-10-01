@@ -1,0 +1,11 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+  <Include file="libs\libs.xml" />
+  <Script file="core\init.lua" />
+  <Script file="core\imports.lua" />
+  <Script file="core\exports.lua" />
+  <Script file="core\dump_inventory.lua" />
+  <Script file="core\auction_house.lua" />
+  <Script file="core\mail.lua" />
+  <Script file="importers\auctioneer.lua" />
+  <Script file="importers\tradeskillmaster.lua" />
+</Ui>
